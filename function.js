@@ -1,1 +1,1 @@
-// Watermark removed
+function _0x2ee4(){const _0x38b155=['undefined','forEach','3209028DBNHQn','appendChild','translateY(0)','fromCharCode','addEventListener','</strong></div>','voteBtn','12BYyrfP','0.8','textContent',[...]
